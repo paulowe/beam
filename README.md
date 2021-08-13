@@ -1,2 +1,2 @@
-# beam
+# Beam
 Apache Beam training
